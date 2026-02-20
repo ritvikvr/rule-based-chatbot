@@ -142,7 +142,7 @@ Contributions are welcome! Feel free to:
 
 ## Author
 
-**Ritvik Verma** (@ritvikvr)
+**Ritvik** (@ritvikvr)
 
 ## License
 
